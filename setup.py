@@ -20,7 +20,7 @@ with open("requirements.txt") as f:
 # (Um único lugar para configurações: todas as informações relevantes do pacote estão neste bloco).
 setup(
     name="image_processing-package-gleyson-atanazio",  # Nome do pacote (deve ser único no PyPI).
-    version="0.0.2",  # Versão do pacote (seguir o versionamento semântico).
+    version="0.0.4",  # Versão do pacote (seguir o versionamento semântico).
     author="Gleyson Atanazio",  # Nome do autor.
     author_email="gleysonasilva@gmail.com",  # Email do autor.
     description="Módulo para processamento e comparação de imagens.",  # Descrição curta do pacote.

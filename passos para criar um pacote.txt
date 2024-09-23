@@ -1,0 +1,21 @@
+Priemiro Crie o pacote
+
+>> python setup.py sdist bdist_wheel
+
+No Testpipy
+
+Suba o o Test Pipy
+
+>> python -m twine upload --repository-url https://test.pypi.org/legacy/ dist/* --verbose  
+
+INstale o pacote para ver se eta tudo certo
+
+Subo o pacote Pipy
+
+>> python -m twine upload --repository-url https://upload.pypi.org/legacy/ dist/* --verbose
+
+
+TEste se deu certo
+
+
+
