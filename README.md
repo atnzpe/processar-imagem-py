@@ -58,7 +58,7 @@ utils.plot.plot_image(imagem_pequena)
 
 ```
 
-## Estrutura do Projeto
+## Estrutura do Projeto.
 
 
 image-processing-package/
